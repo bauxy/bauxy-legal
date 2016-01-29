@@ -70,7 +70,7 @@ Requests to view and correct personal information from Bauxy.com may be submitte
 ### 10. Children
 Bauxy does not knowingly collect or solicit any information from anyone under the age of 13, though from time to time, our users may submit information to us on behalf of a child. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at help@bauxy.com.
 
-### 12. How We Share Information
+### 11. How We Share Information
 We may share or disclose personal information in the instances described below:
 
 - Insurance companies and their administrators, vendors, agents and third party service providers, as well as retailers who are involved in providing services to you, as needed to perform the Service;
@@ -81,32 +81,32 @@ We may share or disclose personal information in the instances described below:
 
 We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
-### 13. Opt out
+### 12. Opt out
 If a user makes a request to receive information in an ongoing manner through Bauxy.com by providing their email address, a user may make a request to discontinue future mailings. Similarly, if you receive information about a Glass Health service through email, you may make a request to discontinue receiving similar messages in the future. All such materials sent to you by email will contain information about how to opt out.  Please note that you may not opt out of Service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
-### 14. Additional Information for Users of Glass Health Mobile Applications
+### 13. Additional Information for Users of Glass Health Mobile Applications
 When using certain functions via a Glass Health mobile application, or when accessing our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
 - We may use this information to estimate your location and to provide you with more personalized content and/or services.
 - We do not monitor your GPS tracking or location information over time.
 - A Glass Health mobile application may also permit you to upload a photograph from your mobile device. If you upload a photo from your mobile device it is your responsibility to manage the settings on your mobile device in order to protect the privacy of photographs you do not intend to upload to a Glass Health mobile application.
 
-### 15. How We Store and Protect Your Information
+### 14. How We Store and Protect Your Information
 Storage and Processing: Your information collected through the Service may be stored and processed in the United States or any other country in which Glass Health or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Glass Health or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
 
 Keeping your information safe: Glass Health cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Glass Health will investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-### 16. Links to Other Websites
+### 15. Links to Other Websites
 - Bauxy.com contains links to websites operated by third parties. If you provide personal information to any third party's website, your transaction will occur on that website (not Bauxy.com) and that website operator will collect the personal information you provide, and this information will be subject to the third-party's privacy policies. We encourage you to read the legal notice posted on those sites, including their privacy policies.
 - This Privacy Statement does not apply to your use of and activity on those other websites. We provide links through Bauxy.com to other websites only as a convenience, and the inclusion of these links does not imply endorsement of the linked site. We have no responsibility or liability for your use of third party websites.
 
 Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including the collection, usage and disclosure policies regarding any personal information you disclose to other organizations through or in connection with our mobile applications or other websites.
 
-### 17. Your California Privacy Rights
+### 16. Your California Privacy Rights
 California Civil code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties\' direct marketing purposes. As explained elsewhere in this Privacy Statement, Glass Health will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions contact us by using the help@bauxy.com link available at the bottom of each page on Bauxy.com.
 
-### 18. Revisions to the Privacy Statement
+### 17. Revisions to the Privacy Statement
 We may revise this Privacy Statement from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
-### 19. Questions, complaints, and contacts
+### 18. Questions, complaints, and contacts
 If you have any questions about this Privacy Statement, our policies and practices concerning Bauxy.com, your rights under this statement, or your dealings with Bauxy.com, you can contact us by sending a message to help@bauxy.com, or by U.S. mail at 995 Market Street, 313, San Francisco, CA 94103.
