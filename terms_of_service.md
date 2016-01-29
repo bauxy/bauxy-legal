@@ -121,13 +121,13 @@ For your complaint to be valid under the DMCA, you must provide the following in
 
 The above information must be submitted to the following DMCA Agent:
 
-Glass Health, Inc. DBA Bauxy
-Attn: DMCA Notice
-995 Market Street, 313
-San Francisco CA, 94103
-Telephone: 415-692-6750
-Fax: 650-434-0063
-Email: copyright@Bauxy.com
+Glass Health, Inc. DBA Bauxy<br/>
+Attn: DMCA Notice<br/>
+995 Market Street, 313<br/>
+San Francisco CA, 94103<br/>
+Telephone: 415-692-6750<br/>
+Fax: 650-434-0063<br/>
+Email: copyright@Bauxy.com<br/>
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.
 
