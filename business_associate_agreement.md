@@ -396,15 +396,15 @@ You shall not request that we use or disclose protected health information in an
 (c) Obligations of Business Associate Upon Termination.
 Upon termination of this Agreement for any reason, with respect to protected health information received from you, or created, maintained, or received by us on your behalf, we shall:
 
-* 1. Retain only that protected health information which is necessary for us to continue to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities;
+1. Retain only that protected health information which is necessary for us to continue to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities;
 
-* 2. Destroy the remaining protected health information that we still maintain in any form;
+2. Destroy the remaining protected health information that we still maintain in any form;
 
-* 3. Continue to use appropriate safeguards and comply with Subpart C of 45 CFR Part 164 with respect to electronic protected health information to prevent use or disclosure of the protected health information, other than as provided for in this Section, for as long as we retain the protected health information;
+3. Continue to use appropriate safeguards and comply with Subpart C of 45 CFR Part 164 with respect to electronic protected health information to prevent use or disclosure of the protected health information, other than as provided for in this Section, for as long as we retain the protected health information;
 
-* 4. Not use or disclose the protected health information we retain other than for the purposes for which such protected health information was originally retained, and subject to the conditions in Section 3 of this Agreement which applied prior to termination; and
+4. Not use or disclose the protected health information we retain other than for the purposes for which such protected health information was originally retained, and subject to the conditions in Section 3 of this Agreement which applied prior to termination; and
 
-* 5. Destroy the protected health information we retain when it is no longer needed to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities.
+5. Destroy the protected health information we retain when it is no longer needed to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities.
 
 (d) Survival.  The obligations the parties under this Section shall survive the termination of this Agreement.
 
