@@ -310,3 +310,120 @@ Except to the extent preempted by federal law, this Agreement shall be governed 
 IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the Effective
 Date.
 (Signature lines are on the next page.)
+
+
+
+
+
+# Business Associate Agreement
+
+This Business Associate Agreement Addendum (this “Agreement”) by and between: 
+__________________________________ (“you,” the “Covered Entity”) and 
+__________________________________ (“us,” “we,” the “Business Associate”) is 
+made as of _________________________ (the “Agreement Effective Date”). 
+
+This Agreement, together with the Terms of Service as amended by this Agreement, (a) is intended by the parties as a final, complete and exclusive expression of the terms of their agreement; and (b) supersedes all prior agreements and understandings (whether oral or written) between the parties with respect to the subject matter hereof.
+
+The parties hereby agree as follows: 
+
+## 1. Definitions 
+
+Specific definitions:
+
+(a) Business Associate.  “Business Associate” shall generally have the same meaning as the term “business associate” at 45 CFR 160.103, and in reference to the party to this agreement, shall mean us.
+
+(b) Covered Entity.  “Covered Entity” shall generally have the same meaning as the term “covered entity” at 45 CFR 160.103, and in reference to the party to this agreement, shall mean you.
+
+(c) HIPAA Rules.  “HIPAA Rules” shall mean the Privacy, Security, Breach Notification, and Enforcement Rules at 45 CFR Part 160 and Part 164.
+
+The following terms used in this Agreement shall have the same meaning as those terms in the HIPAA Rules: Breach, Data Aggregation, Designated Record Set, Disclosure, Health Care Operations, Individual, Minimum Necessary, Notice of Privacy Practices, Protected Health Information, Required By Law, Secretary, Security Incident, Subcontractor, Unsecured Protected Health Information, and Use.
+
+## 2. Our Obligations and Activities
+
+We agree to:
+
+(a) Not use or disclose protected health information other than as permitted or required by this Agreement or as required by law;
+
+(b) Use appropriate safeguards, and comply with Subpart C of 45 CFR Part 164 with respect to electronic protected health information, to prevent use or disclosure of protected health information other than as provided for by the Agreement or the Terms of Service;
+
+(c) Report to you any use or disclosure of protected health information not provided for by the Agreement of which we become aware, including breaches of unsecured protected health information as required at 45 CFR 164.410, and any security incident of which we become aware;
+
+(d) In accordance with 45 CFR 164.502(e)(1)(ii) and 164.308(b)(2), if applicable, ensure that any subcontractors that create, receive, maintain, or transmit protected health information on our behalf agree to the same restrictions, conditions, and requirements that apply to us with respect to such information;
+(e) Make available to you protected health information in a designated record set as necessary to satisfy your obligations under 45 CFR 164.524;
+
+(f) Make any amendments to protected health information in a designated record set as directed or agreed to by you pursuant to 45 CFR 164.526, or take other measures as necessary to satisfy your obligations under 45 CFR 164.526;
+
+(g) Maintain and make available the information required to provide an accounting of disclosures to you as necessary to satisfy your obligations under 45 CFR 164.528;
+
+(h) Comply with the requirements of Subpart E that apply to you in the performance of your obligations under Subpart E of 45 CFR Part 164, to the extent we are to carry out one or more of such obligations; and
+
+(i) Make our internal practices, books, and records available to the Secretary for purposes of determining compliance with the HIPAA Rules.
+
+## 3. Permitted Uses and Disclosures by Business Associate
+
+(a) We shall only use or disclose protected health information as necessary to perform the services set forth in the Terms of Service agreement between the parties.
+
+(b) We shall use or disclose protected health information as required by law.
+
+(c) We agree to make uses and disclosures and requests for protected health information consistent with your minimum necessary policies and procedures.
+
+(d) We shall not use or disclose protected health information in a manner that would violate Subpart E of 45 CFR Part 164 if done by you, except for the specific uses and disclosures set forth below.
+
+(e) We may use protected health information for our own proper managerial and administrative duties, or to carry out our legal responsibilities.
+
+(f) We may disclose protected health information for our own proper managerial and administrative functions, or to carry out our legal responsibilities, provided the disclosures are required by law, or that we obtain reasonable assurances from the person to whom the information is disclosed that the information will remain confidential and used or further disclosed only as required by law or for the purposes for which it was disclosed to the person, and the person notifies us of any instances of which it is aware in which the confidentiality of the information has been breached.
+
+(g) We may provide data aggregation services relating to your health care operations.
+
+## 4. Provisions for Covered Entity to Inform Business Associate of Privacy Practices and Restrictions 
+
+(a) You agree to notify us of any limitations in your notice of privacy practices under 45 CFR 164.520, to the extent that such limitation may affect our use or disclosure of protected health information.
+
+(b) You agree to notify us of any changes in, or revocation of, the permission by an individual to use or disclose his or her protected health information, to the extent that such changes may affect our use or disclosure of protected health information.
+
+(c) You agree to notify us of any restriction on the use or disclosure of protected health information that you have agreed to or are required to abide by under 45 CFR 164.522, to the extent that such restriction may affect our use or disclosure of protected health information.
+
+## 5. Permissible Requests by Covered Entity
+
+You shall not request that we use or disclose protected health information in any manner that would not be permissible under Subpart E of 45 CFR Part 164 if done by you, except as specified in Section 3 of this Agreement.
+
+## 6. Term and Termination
+
+(a) Term. The Term of this Agreement shall be effective as of the Agreement Effective Date, and shall continue in perpetuity until either party terminates the agreement. 
+
+(b) Termination. Either party has the right to terminate this Agreement for any reason upon 90 days prior written notice to the other party. A material breach of this Agreement will be treated as a material breach of the Terms of Service.
+
+(c) Obligations of Business Associate Upon Termination.
+Upon termination of this Agreement for any reason, with respect to protected health information received from you, or created, maintained, or received by us on your behalf, we shall:
+
+* 1. Retain only that protected health information which is necessary for us to continue to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities;
+
+* 2. Destroy the remaining protected health information that we still maintain in any form;
+
+* 3. Continue to use appropriate safeguards and comply with Subpart C of 45 CFR Part 164 with respect to electronic protected health information to prevent use or disclosure of the protected health information, other than as provided for in this Section, for as long as we retain the protected health information;
+
+* 4. Not use or disclose the protected health information we retain other than for the purposes for which such protected health information was originally retained, and subject to the conditions in Section 3 of this Agreement which applied prior to termination; and
+
+* 5. Destroy the protected health information we retain when it is no longer needed to properly perform our own managerial and administrative duties, or to carry out our legal responsibilities.
+
+(d) Survival.  The obligations the parties under this Section shall survive the termination of this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Agreement Effective Date.
+
+
+
+By: ________________________________
+Name: ______________________________ 
+Title: _______________________________
+Date Signed: _________________________
+
+
+
+
+
+
+By: ________________________________
+Name: ______________________________ 
+Title: _______________________________
+Date Signed: _________________________
+
