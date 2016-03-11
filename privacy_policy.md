@@ -12,7 +12,7 @@ Glass Health Inc. DBA Bauxy
 =============
 Privacy Policy 
 ----------------
-Version 1.5 - January 2016
+Version 1.5 - February 2016
 
 
 We understand how important the privacy of personal information is to our visitors and customers. This Privacy Statement describes what information we collect about you and how we use or disclose that information. Please take the time to read our entire Privacy Statement carefully for more information about our privacy practices.
