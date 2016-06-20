@@ -12,7 +12,7 @@ Glass Health Inc. DBA Patch
 =============
 Terms of Service 
 ----------------
-Version 1.5 - February 2016
+Version 1.6.0 - June 2016
 
 Welcome to getpatch.com, the website and online service of Glass Health, Inc. (**“getpatch.com"**, **“Patch,”** **“we,”** or **“us”**) including any platforms, APIs, interfaces, related web sites, networks, embeddable widgets, downloadable software, and other services provided by us and in which a link to these Terms of Service is displayed (the **"Services"**). 
 

@@ -12,7 +12,7 @@ Glass Health Inc. DBA Patch
 =============
 Subscription Agreement
 ----------------
-Version 1.1 - May 2016
+Version 1.2 - June 2016
 
 ##### Customer Information
 - Customer: 
