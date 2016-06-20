@@ -1,20 +1,20 @@
 ---
 title: Business Associate Agreement
 tracked_title: Business Associate Agreement
-description: "Bauxy's business associate agreement"
+description: "Patch's business associate agreement"
 posted: 2016-02-09
 section: Legal
 sub_section: Agreements
 order: 0
 ---
 
-Glass Health Inc. DBA Bauxy
+Glass Health Inc. DBA Patch
 =============
 Business Associate Agreement
 ----------------
 Version 1.6 - March 2016
 
-This Business Associate Agreement (the “Agreement”) is entered into as of _______________ (the “Effective Date”), by and between ______________________ ("Covered Entity") and Glass Health Inc. DBA Bauxy ("Business Associate"). Covered Entity and Business Associate, collectively, may be referred to herein as the “Parties”.
+This Business Associate Agreement (the “Agreement”) is entered into as of _______________ (the “Effective Date”), by and between ______________________ ("Covered Entity") and Glass Health Inc. DBA Patch ("Business Associate"). Covered Entity and Business Associate, collectively, may be referred to herein as the “Parties”.
 
 ### 1. Introduction
 

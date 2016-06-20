@@ -1,14 +1,14 @@
 ---
 title: Privacy Policy
 tracked_title: Privacy Policy
-description: "Bauxy's privacy policy"
+description: "Patch's privacy policy"
 posted: 2016-01-29
 section: Legal
 sub_section: Agreements
 order: 0
 ---
 
-Glass Health Inc. DBA Bauxy
+Glass Health Inc. DBA Patch
 =============
 Privacy Policy 
 ----------------
@@ -17,10 +17,10 @@ Version 1.5 - February 2016
 
 We understand how important the privacy of personal information is to our visitors and customers. This Privacy Statement describes what information we collect about you and how we use or disclose that information. Please take the time to read our entire Privacy Statement carefully for more information about our privacy practices.
 
-This Privacy Statement applies to Bauxy.com and mobile applications made available by Glass Health, Inc., d/b/a Bauxy ("Glass Health" or "we") and through the service we provide (collectively, our “Service”). By providing personal information to us through the Service, you are consenting to the collection, use, and disclosure of your personal information in accordance with this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide personal information through Bauxy.com or mobile applications made available by Glass Health.
+This Privacy Statement applies to getpatch.com and mobile applications made available by Glass Health, Inc., d/b/a Patch ("Glass Health" or "we") and through the service we provide (collectively, our “Service”). By providing personal information to us through the Service, you are consenting to the collection, use, and disclosure of your personal information in accordance with this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide personal information through getpatch.com or mobile applications made available by Glass Health.
 
 ### 1. Personal Information We Collect About You
-If you choose to register and create an account with Bauxy.com, you will be required to submit personal information to us. This personal information may include, but not necessarily be limited to, the following:
+If you choose to register and create an account with getpatch.com, you will be required to submit personal information to us. This personal information may include, but not necessarily be limited to, the following:
 
 - Name, address, and birthdate;
 - Other contact information such as email address and/or test address;
@@ -35,11 +35,11 @@ We use your personal information that you provide to fulfill the purpose for whi
 - Submitting insurance claims to your insurer on your behalf;
 - Processing or receiving payments;
 - Sending you information about health care and health related services, resources and benefits that will help you manage your health, heath benefits and cash accounts;
-- Sending administrative information to you, for example, information regarding Bauxy.com or mobile applications made available by Glass Health and changes to our terms, conditions, and policies;
+- Sending administrative information to you, for example, information regarding getpatch.com or mobile applications made available by Glass Health and changes to our terms, conditions, and policies;
 - Providing and improving customer services, including through email communications;
 - Sending marketing information we think may be of interest to you;
 - Sending you surveys;
-- Authenticating or confirming your identity when you return to your Bauxy account online;
+- Authenticating or confirming your identity when you return to your Patch account online;
 - Conducting our business, such as data analysis, audits, developing new products, enhancing, improving or modifying our services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities;
 - Taking any action that we believe to be necessary or appropriate: (a) to investigate, prevent and detect illegal activities; (b) under applicable laws, including laws outside your country of residence; (c) to comply with legal process; (d) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (e) to enforce our Terms and Conditions of Use and this Privacy Statement; (f) to protect our operations or those of our affiliates; (g) to protect our rights, privacy, safety or property and/or that of our affiliates, you or others; and (h) to allow us to pursue available remedies or limit the damages that we may sustain; and
 - Other purposes specifically disclosed at the time we request your information.
@@ -53,10 +53,10 @@ We may use the data collected through cookies, log file, device identifiers, loc
 We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org). Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
 ### 5. Emails
-We use third-party vendors to help us manage some of our email communications with you. While we do supply these vendors with email addresses of those we wish them to contact, your email address is never used for any purpose other than to communicate with you on our behalf. When you click on a link in an email, you may temporarily be redirected through one of the vendor\'s servers (although this process will be invisible to you) which will register that you have clicked on that link, and have visited Bauxy.com. 
+We use third-party vendors to help us manage some of our email communications with you. While we do supply these vendors with email addresses of those we wish them to contact, your email address is never used for any purpose other than to communicate with you on our behalf. When you click on a link in an email, you may temporarily be redirected through one of the vendor\'s servers (although this process will be invisible to you) which will register that you have clicked on that link, and have visited getpatch.com. 
 
 ### 6. Evaluation and research
-We will periodically ask users to complete surveys asking about their experiences with features of the website. Our surveys ask visitors for demographic information such as occupation, insurance status, and education, and whether they are satisfied with our services. We use survey information for research and quality improvement purposes, including helping us to improve information and services offered through Bauxy.com. In addition, users giving feedback may be individually contacted for follow-up due to concerns raised during the course of such evaluation. Demographic information and Web log data may be stored for future research and evaluation.
+We will periodically ask users to complete surveys asking about their experiences with features of the website. Our surveys ask visitors for demographic information such as occupation, insurance status, and education, and whether they are satisfied with our services. We use survey information for research and quality improvement purposes, including helping us to improve information and services offered through getpatch.com. In addition, users giving feedback may be individually contacted for follow-up due to concerns raised during the course of such evaluation. Demographic information and Web log data may be stored for future research and evaluation.
 
 ### 7. Messages and transactions
 Comments or questions sent to us using email or secure messaging forms will be shared with our staff that is most able to address your concerns. We will archive your messages once we have made our best effort to provide you with a complete and satisfactory response.
@@ -65,10 +65,10 @@ Comments or questions sent to us using email or secure messaging forms will be s
 When you provide us with your credit card number for payments, we will treat your credit card number in a secure manner. We use a third-party vendor to process your credit card payments and do not collect or store your credit card information on our systems.
 
 ### 9. Data integrity and correction
-Requests to view and correct personal information from Bauxy.com may be submitted using the contact information in the "Questions, complaints, and contacts" section below.
+Requests to view and correct personal information from getpatch.com may be submitted using the contact information in the "Questions, complaints, and contacts" section below.
 
 ### 10. Children
-Bauxy does not knowingly collect or solicit any information from anyone under the age of 13, though from time to time, our users may submit information to us on behalf of a child. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at help@bauxy.com.
+Patch does not knowingly collect or solicit any information from anyone under the age of 13, though from time to time, our users may submit information to us on behalf of a child. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at help@getpatch.com.
 
 ### 11. How We Share Information
 We may share or disclose personal information in the instances described below:
@@ -82,7 +82,7 @@ We may share or disclose personal information in the instances described below:
 We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
 ### 12. Opt out
-If a user makes a request to receive information in an ongoing manner through Bauxy.com by providing their email address, a user may make a request to discontinue future mailings. Similarly, if you receive information about a Glass Health service through email, you may make a request to discontinue receiving similar messages in the future. All such materials sent to you by email will contain information about how to opt out.  Please note that you may not opt out of Service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
+If a user makes a request to receive information in an ongoing manner through getpatch.com by providing their email address, a user may make a request to discontinue future mailings. Similarly, if you receive information about a Glass Health service through email, you may make a request to discontinue receiving similar messages in the future. All such materials sent to you by email will contain information about how to opt out.  Please note that you may not opt out of Service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
 ### 13. Additional Information for Users of Glass Health Mobile Applications
 When using certain functions via a Glass Health mobile application, or when accessing our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
@@ -97,16 +97,16 @@ Storage and Processing: Your information collected through the Service may be st
 Keeping your information safe: Glass Health cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Glass Health will investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
 ### 15. Links to Other Websites
-- Bauxy.com contains links to websites operated by third parties. If you provide personal information to any third party's website, your transaction will occur on that website (not Bauxy.com) and that website operator will collect the personal information you provide, and this information will be subject to the third-party's privacy policies. We encourage you to read the legal notice posted on those sites, including their privacy policies.
-- This Privacy Statement does not apply to your use of and activity on those other websites. We provide links through Bauxy.com to other websites only as a convenience, and the inclusion of these links does not imply endorsement of the linked site. We have no responsibility or liability for your use of third party websites.
+- getpatch.com contains links to websites operated by third parties. If you provide personal information to any third party's website, your transaction will occur on that website (not getpatch.com) and that website operator will collect the personal information you provide, and this information will be subject to the third-party's privacy policies. We encourage you to read the legal notice posted on those sites, including their privacy policies.
+- This Privacy Statement does not apply to your use of and activity on those other websites. We provide links through getpatch.com to other websites only as a convenience, and the inclusion of these links does not imply endorsement of the linked site. We have no responsibility or liability for your use of third party websites.
 
 Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including the collection, usage and disclosure policies regarding any personal information you disclose to other organizations through or in connection with our mobile applications or other websites.
 
 ### 16. Your California Privacy Rights
-California Civil code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties\' direct marketing purposes. As explained elsewhere in this Privacy Statement, Glass Health will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions contact us by using the help@bauxy.com link available at the bottom of each page on Bauxy.com.
+California Civil code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties\' direct marketing purposes. As explained elsewhere in this Privacy Statement, Glass Health will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions contact us by using the help@getpatch.com link available at the bottom of each page on getpatch.com.
 
 ### 17. Revisions to the Privacy Statement
 We may revise this Privacy Statement from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
 ### 18. Questions, complaints, and contacts
-If you have any questions about this Privacy Statement, our policies and practices concerning Bauxy.com, your rights under this statement, or your dealings with Bauxy.com, you can contact us by sending a message to help@bauxy.com, or by U.S. mail at 995 Market Street, 313, San Francisco, CA 94103.
+If you have any questions about this Privacy Statement, our policies and practices concerning getpatch.com, your rights under this statement, or your dealings with getpatch.com, you can contact us by sending a message to help@getpatch.com, or by U.S. mail at 995 Market Street, 313, San Francisco, CA 94103.
