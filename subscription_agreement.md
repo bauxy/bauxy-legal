@@ -12,25 +12,26 @@ Glass Health Inc. DBA Patch
 =============
 Subscription Agreement
 ----------------
-Version 1.2 - June 2016
+Version 1.3 - June 2016
 
 ##### Customer Information
-- Customer: 
-- Contact:
-- Address:  
-- Phone: 
-- Fax: 
-- E-Mail: 
+- Customer: {customer}
+- NPI: {npi}
+- Contact: {name}
+- Address: {address}
+- Phone: {phone}
+- Fax: {fax}
+- E-Mail: {email}
 
 ##### Saas Services
 Glass Health, Inc., d/b/a/ Patch (“Patch”) SaaS Services both the API and Web Application that allow healthcare providers and patients to check health insurance plan information, eligibility, and submit out-of-network vision claims (the “Service(s)”).
 
 ##### Services Fees
-- Subscription fee of $1,500 to be paid monthly
+- Subscription fee of {monthly_fee} to be paid monthly
 
 Transactional fee of:
-- 10% of the reimbursement amount for each claim submission
-- $0.50 for every API call with plan information and/or eligibility
+- {claim_fee} for each claim submission
+- {eligibility_fee} for every API call with plan information and/or eligibility
 
 ##### Service Term
 One (1) year

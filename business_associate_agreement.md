@@ -12,9 +12,9 @@ Glass Health Inc. DBA Patch
 =============
 Business Associate Agreement
 ----------------
-Version 1.6.0 - June 2016
+Version 1.6.1 - June 2016
 
-This Business Associate Agreement (the “Agreement”) is entered into as of _______________ (the “Effective Date”), by and between ______________________ ("Covered Entity") and Glass Health Inc. DBA Patch ("Business Associate"). Covered Entity and Business Associate, collectively, may be referred to herein as the “Parties”.
+This Business Associate Agreement (the “Agreement”) is entered into as of {date} (the “Effective Date”), by and between {provider_name} ("Covered Entity") and Glass Health Inc. DBA Patch ("Business Associate"). Covered Entity and Business Associate, collectively, may be referred to herein as the “Parties”.
 
 ### 1. Introduction
 
