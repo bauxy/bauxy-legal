@@ -31,6 +31,7 @@ Glass Health, Inc., d/b/a/ Patch (“Patch”), assists Customer’s patients, v
 
 Transactional fee of:
 - {claim_fee} for each claim submission
+- {exam_claim_fee} for each claim submission that contains only an eye exam 
 - {eligibility_fee} for every API call with plan information and/or eligibility
 
 ##### Service Term
