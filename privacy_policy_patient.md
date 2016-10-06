@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
-tracked_title: Privacy Policy
-description: "Patch's privacy policy"
-posted: 2016-01-29
+tracked_title: Patient Privacy Policy
+description: "Patch's patient privacy policy"
+posted: 2016-10-06
 section: Legal
 sub_section: Agreements
 order: 0
@@ -10,9 +10,9 @@ order: 0
 
 Glass Health Inc. DBA Patch
 =============
-Privacy Policy 
+Patient Privacy Policy 
 ----------------
-Version 1.6.0 - June 2016
+Version 1.7.0 - October 2016
 
 
 We understand how important the privacy of personal information is to our visitors and customers. This Privacy Statement describes what information we collect about you and how we use or disclose that information. Please take the time to read our entire Privacy Statement carefully for more information about our privacy practices.
@@ -103,10 +103,14 @@ Keeping your information safe: Glass Health cares about the security of your inf
 Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including the collection, usage and disclosure policies regarding any personal information you disclose to other organizations through or in connection with our mobile applications or other websites.
 
 ### 16. Your California Privacy Rights
-California Civil code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties\' direct marketing purposes. As explained elsewhere in this Privacy Statement, Glass Health will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions contact us by using the help@getpatch.com link available at the bottom of each page on getpatch.com.
+California Civil Code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties\' direct marketing purposes. As explained elsewhere in this Privacy Statement, Glass Health will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions contact us by using the help@getpatch.com link available at the bottom of each page on getpatch.com.
 
 ### 17. Revisions to the Privacy Statement
 We may revise this Privacy Statement from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
-### 18. Questions, complaints, and contacts
+### 18. HIPAA and PHI
+Under a federal law called the Health Insurance Portability and Accountability Act (“HIPAA”), some demographic, health and/or health-related information that Patch collects as part of providing the Services may be considered “protected health information” or “PHI.” Specifically, when Patch receives identifiable health information about you from a healthcare provider or health plan (“Covered Entity”), this information is considered PHI.
+HIPAA provides specific protections for the privacy and security of PHI and restricts how PHI is used and disclosed. Patch may only use and disclose your PHI in the ways permitted by your Covered Entity.  In addition, you may be asked to e-sign the Patch authorization (the “Patch Authorization”). Your decision to e-sign the Patch Authorization is entirely voluntary. If you choose to e-sign the Patch Authorization, you agree that Patch may use and disclose your PHI in the same way it uses and discloses your personal information that is not PHI or protected by HIPAA. These uses and disclosures are described in this Privacy Policy. To the extent any provision in the Patch Authorization is inconsistent with this Privacy Policy or other provisions of the Agreement, then the provision in the Patch Authorization only controls with respect to your PHI. If you do not e-sign the Patch Authorization, then your Personal Information that is not PHI is governed by the Terms of Service and this Privacy Policy and your Personal Information that is PHI is used and disclosed only as permitted by your Covered Entity.
+
+### 19. Questions, complaints, and contacts
 If you have any questions about this Privacy Statement, our policies and practices concerning getpatch.com, your rights under this statement, or your dealings with getpatch.com, you can contact us by sending a message to help@getpatch.com, or by U.S. mail at 995 Market Street, 313, San Francisco, CA 94103.
