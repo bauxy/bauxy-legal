@@ -2,7 +2,7 @@
 title: Terms of Service
 tracked_title: Business Terms of Service
 description: "Patch's business terms of service"
-posted: 2016-01-29
+posted: 2016-10-10
 section: Legal
 sub_section: Agreements
 order: 0
@@ -12,7 +12,7 @@ Glass Health Inc. DBA Patch
 =============
 Business Terms of Service 
 ----------------
-Version 1.7.0 - October 2016
+Version 1.7.1 - October 2016
 
 Welcome to getpatch.com, the website and online service of Glass Health, Inc. (**“getpatch.com"**, **“Patch,”** **“we,”** or **“us”**) including any platforms, APIs, interfaces, related web sites, networks, embeddable widgets, downloadable software, and other services provided by us and in which a link to these Terms of Service is displayed (the **"Services"**). 
 
@@ -27,33 +27,25 @@ The Service is not intended or designed to attract children under the age of thi
 
 ### 2. Users that are Providers and/or Entities Acting on Behalf of Patients (“Customer”). 
 
-#### 2.1 
-Service Fees
-- Subscription fee of $95 to be paid monthly by Customer
-- Transactional fee to be aggregated and paid monthly by Customer:
-- $6.95 for each claim submission
-- $2.95 for each claim submission that contains only an eye exam 
-- $0.95 for every API call with plan information and/or eligibility
-
-#### 2.2
+#### 2.1
 Customers acting on behalf of patients shall only have the right to use the Service for the benefit of itself or its patients and will ensure that neither it nor its, employees, or contractors will, directly or indirectly use the Services or any software for timesharing or service bureau purposes or otherwise for the benefit of a third party; or remove any proprietary notices or labels, and that each Customer and its employees and contractors will be bound by these Terms of Service. With respect to any software that is distributed or provided to Customers for use on premises or devices, Patch hereby grants Customer a non-exclusive, non-transferable, non-sublicensable license to use such software, while in compliance with these Terms of Service, only in connection with the Services. 
 
-#### 2.3
+#### 2.2
 Further, Customer may not remove or export from the United States or any other territory, or allow the export or re-export of the Services, software or anything related thereto, or any direct product thereof in violation of any restrictions, laws or regulations of the United States Department of Commerce, the United States Department of Treasury Office of Foreign Assets Control, or any other United States or foreign government, agency or authority. As defined in FAR section 2.101, the Software and documentation are “commercial items” and according to DFAR section 252.227‑7014(a)(1) and (5) are deemed to be “commercial computer software” and “commercial computer software documentation.” Consistent with DFAR section 227.7202 and FAR section 12.212, any use modification, reproduction, release, performance, display, or disclosure of such commercial software or commercial software documentation by the U.S. Government will be governed solely by the terms of this Agreement and will be prohibited except to the extent expressly permitted by the terms of this Agreement. 
 
-#### 2.4
+#### 2.3
 Customer represents, covenants, and warrants that Customer will use the Services only in compliance with Patch’s standard published policies then in effect (the “Policy”) and all applicable laws and regulations, including those relating to privacy and data security and under the terms and conditions of this Agreement. Customer represents that it has instructed Patch to utilize any patient health information in accordance with the Policy in place at Patch and received appropriate permission and authorization from a patient where necessary for Patch’s use of any information. Customer further, specifically represents, covenants, and warrants that Customer will not access personal information as defined under applicable law, unless doing so would be permitted by applicable law. Customer further specifically represents, covenants, and warrants that Customer will not provide access to Services to any contractor, such that contractor can access personal information as defined by applicable law, unless doing so would be permitted by applicable law and will ensure that contractor abides by the terms and conditions of this Agreement. Customer hereby agrees to indemnify and hold harmless Patch against any damages, losses, liabilities, settlements and expenses (including without limitation costs and attorneys’ fees) in connection with any claim or action that arises from an alleged violation of the foregoing, this Agreement, the Terms of Service or otherwise from Customer’s, its patient’s or its contractor’s use of the Services. The above shall not be interpreted or construed to limit the Indemnification otherwise contained herein. Although Patch has no obligation to monitor Customer’s use of the Services, Patch may do so and may prohibit any use of the Services it believes may be (or alleged to be) in violation of the foregoing. 
 
-#### 2.5
+#### 2.4
 Customer shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Services, including, without limitation, modems, hardware, servers, software, operating systems, networking, web servers and the like (collectively, “Equipment”). Customer shall also be responsible for maintaining the security of the Equipment, Customer account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account or the Equipment with or without Customer’s knowledge or consent. Customer will be responsible for its own compliance with all state and federal privacy laws. 
 
-#### 2.6
+#### 2.5
 Each party (the “Receiving Party”) understands that the other party (the “Disclosing Party”) has disclosed or may disclose business, technical or financial information relating to the Disclosing Party’s business (hereinafter referred to as “Proprietary Information” of the Disclosing Party). Proprietary Information of Patch includes non-public information regarding features, functionality and performance of the Service and all terms of any additional agreement, including but not limited to specific services and pricing. The Receiving Party agrees: (i) to take reasonable precautions to protect such Proprietary Information, and (ii) not to use (except in performance of the Services or as otherwise permitted herein) or divulge to any third person any such Proprietary Information, unless such third person is a contractor providing service at Customer’s office, clinic or health center, in which case Customer will ensure that contractor is subject to the requirements herein. The Disclosing Party agrees that the foregoing shall not apply with respect to any information after seven (7) years following the disclosure thereof or any information that the Receiving Party can document (a) is or becomes generally available to the public, or (b) was in its possession or known by it prior to receipt from the Disclosing Party, or (c) was rightfully disclosed to it without restriction by a third party, or (d) was independently developed without use of any Proprietary Information of the Disclosing Party or (e) is required to be disclosed by law. 
 
-#### 2.7
+#### 2.6
 Patch shall own and retain all right, title and interest in and to (a) the Services and software, all improvements, enhancements or modifications thereto, (b) any software, applications, inventions or other technology developed in connection with any training or other services or support, and (c) all intellectual property rights related to any of the foregoing. The above will not be interpreted or construed to limit any other intellectual property rights contained in these Terms of Service. Notwithstanding anything to the contrary, Patch shall have the right to collect and analyze data and other information relating to the provision, use and performance of various aspects of the Services and related systems and technologies (including, without limitation, information concerning customer data and data derived therefrom), and Patch will be free (during the term hereof) to (i) use such information and data to improve and enhance the Services and for other development, diagnostic and corrective purposes in connection with the Services, and (ii) disclose such data solely in aggregate or other de-identified form in connection with its business. No rights or licenses are granted except as expressly set forth herein.
 
-#### 2.8
+#### 2.7
 Patch shall submit claims for reimbursement for Customer’s patients with respect to all out-of-network vision claims.  In order to do so, Customer’s patient must provide Patch with complete and accurate claims information. Customer shall assist Patch by providing National Provider Identification numbers and any other necessary documentation and will execute any such agreements necessary for Patch to carry out the submission and reimbursement services. Customer shall be and remain responsible for all billing decisions that affect the amount of reimbursement and for the accuracy of all bills. Should a bill need to be resubmitted based on a Customer billing error, Customer shall be responsible for any limited fees associated with resubmission. Patch shall be and remain responsible for all coding that affects the amount of reimbursement.
 
 ### 3. Health Insurance Portability and Accountability Act (“HIPAA”) and Protected Health Information (“PHI”)
