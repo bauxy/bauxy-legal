@@ -2,7 +2,7 @@
 title: Business Associate Agreement
 tracked_title: Business Associate Agreement
 description: "Patch's business associate agreement"
-posted: 2016-02-09
+posted: 2019-02-10
 section: Legal
 sub_section: Agreements
 order: 0
@@ -12,7 +12,7 @@ Glass Health Inc. DBA Patch
 =============
 Business Associate Agreement
 ----------------
-Version 1.7 - December 2018
+Version 1.7 - February 2019
 
 This Business Associate Agreement (the “Agreement”) is entered into as of {date} (the “Effective Date”), by and between {customer} ("Covered Entity") and Glass Health Inc. DBA Patch ("Business Associate"). Covered Entity and Business Associate, collectively, may be referred to herein as the “Parties”
 
