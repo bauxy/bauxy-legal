@@ -14,17 +14,17 @@ Business Associate Agreement
 ----------------
 Version 2.0 - February 2021
 
-This Business Associate Agreement (the &quot;Agreement&quot;) is entered into as of {date} (the &quot;Effective Date&quot;), by and between {company-name} (&quot;Customer&quot;) and Anagram Inc. (&quot;Anagram&quot;). Customer and Anagram, collectively, may be referred to herein as the &quot;Parties&quot;.
+This Business Associate Agreement (the "Agreement") is entered into as of {date} (the "Effective Date"), by and between {company-name} ("Customer") and Anagram Inc. ("Anagram"). Customer and Anagram, collectively, may be referred to herein as the "Parties".
 
 # 1. Introduction
 
 ## 1.1
 
-Customer and Anagram enter into this Agreement to comply with the requirements of Health Insurance Portability and Accountability Act of 1996 (&quot;HIPAA&quot;), as amended, including the privacy, security, breach notification and enforcement rules at 45 C.F.R. Part 160 and Part 164, as well as the Health Information Technology for Economic and Clinical Health Act, enacted as part of the American Recovery and Reinvestment Act of 2009 (&quot;HITECH&quot;), as amended, and other applicable federal and state laws (collectively the &quot;HIPAA Rules&quot;).
+Customer and Anagram enter into this Agreement to comply with the requirements of Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), as amended, including the privacy, security, breach notification and enforcement rules at 45 C.F.R. Part 160 and Part 164, as well as the Health Information Technology for Economic and Clinical Health Act, enacted as part of the American Recovery and Reinvestment Act of 2009 ("HITECH"), as amended, and other applicable federal and state laws (collectively the "HIPAA Rules").
 
 ## 1.2
 
-This Agreement is intended to ensure that Anagram will establish and implement appropriate safeguards for certain individually identifiable Protected Health Information relating to patients of Customer, if Customer is a Covered Entity, or of Customer&#39;s Covered Entity client(s) of whom Customer is a Business Associate (&quot;PHI&quot; as that term is defined below) that Anagram may receive, create, maintain, use or disclose in connection with certain functions, activities and services that Anagram performs for Customer. The functions, activities and services that Anagram performs for Customer are defined in one or more agreements between the Parties (the &quot;Underlying Agreements&quot;). These Underlying Agreements, this Agreement, and any Terms of Service as amended by this Agreement or any Underlying Agreement, (a) is intended by the parties as a final, complete and exclusive expression of the terms of their agreement; and (b) supersedes all prior agreements and understandings (whether oral or written) between the parties with respect to the subject matter hereof.
+This Agreement is intended to ensure that Anagram will establish and implement appropriate safeguards for certain individually identifiable Protected Health Information relating to patients of Customer, if Customer is a Covered Entity, or of Customer's Covered Entity client(s) of whom Customer is a Business Associate ("PHI" as that term is defined below) that Anagram may receive, create, maintain, use or disclose in connection with certain functions, activities and services that Anagram performs for Customer. The functions, activities and services that Anagram performs for Customer are defined in one or more agreements between the Parties (the "Underlying Agreements"). These Underlying Agreements, this Agreement, and any Terms of Service as amended by this Agreement or any Underlying Agreement, (a) is intended by the parties as a final, complete and exclusive expression of the terms of their agreement; and (b) supersedes all prior agreements and understandings (whether oral or written) between the parties with respect to the subject matter hereof.
 
 # 2. Definitions
 
@@ -36,33 +36,33 @@ Terms used but not otherwise defined in this Agreement shall have the same meani
 
 ### 2.2.1
 
-&quot;Electronic Protected Health Information&quot; or &quot;ePHI&quot; shall have the meaning given to such term under the Privacy Rule and the Security Rule, including, but not limited to, 45 C.F.R. 160.103, as applied to the information created, received, maintained or transmitted by Anagram from or on behalf of Customer
+"Electronic Protected Health Information" or "ePHI" shall have the meaning given to such term under the Privacy Rule and the Security Rule, including, but not limited to, 45 C.F.R. 160.103, as applied to the information created, received, maintained or transmitted by Anagram from or on behalf of Customer
 
 ### 2.2.2
 
-&quot;Individual&quot; shall have the same meaning given to such term in 45 C.F.R. § 160.103 and shall include a person who qualifies as a personal representative in accordance with 45 C.F.R. § 164.502(g).
+"Individual" shall have the same meaning given to such term in 45 C.F.R. § 160.103 and shall include a person who qualifies as a personal representative in accordance with 45 C.F.R. § 164.502(g).
 
 ### 2.2.3
 
-&quot;Protected Health Information&quot; or &quot;PHI&quot; shall have the meaning given to such term in 45 C.F.R. 160.103, limited to the information created, received, maintained or transmitted by Anagram from or on behalf of Customer.
+"Protected Health Information" or "PHI" shall have the meaning given to such term in 45 C.F.R. 160.103, limited to the information created, received, maintained or transmitted by Anagram from or on behalf of Customer.
 
 ### 2.2.4
 
-&quot;Privacy Rule&quot; shall mean the Standards for Privacy of Individually Identifiable Health
+"Privacy Rule" shall mean the Standards for Privacy of Individually Identifiable Health
 
-Information published in 45 C.F.R. Parts 160 and 164, Subparts A and E. 2.2.5 &quot;Required by
+Information published in 45 C.F.R. Parts 160 and 164, Subparts A and E. 2.2.5 "Required by
 
-Law&quot; shall have the meaning given to such term in 45 C.F.R. 164.103.
+Law" shall have the meaning given to such term in 45 C.F.R. 164.103.
 
 ### 2.2.6
 
-&quot;Secretary&quot; shall mean the Secretary of the Department of Health and Human Services or
+"Secretary" shall mean the Secretary of the Department of Health and Human Services or
 
 his or her designee.
 
 ### 2.2.7
 
-&quot;Security Rule&quot; shall mean the Security Standards at 45 C.F.R. Part 160 and Part 164,
+"Security Rule" shall mean the Security Standards at 45 C.F.R. Part 160 and Part 164,
 
 Subparts A and C.
 
@@ -70,7 +70,7 @@ Subparts A and C.
 
 ## 3.1 Use and Disclosure
 
-Anagram agrees not to use or disclose PHI, other than as permitted or required by this Agreement the Underlying Agreement or Terms of Service or as Required By Law. To the extent Anagram is carrying out one or more of Customer&#39;s obligations under the Privacy Rule pursuant to the terms of the Underlying Agreements, Terms of Service or this Agreement, Anagram shall comply with the requirements of the Privacy Rule that apply to Customer in the performance of such obligation(s).
+Anagram agrees not to use or disclose PHI, other than as permitted or required by this Agreement the Underlying Agreement or Terms of Service or as Required By Law. To the extent Anagram is carrying out one or more of Customer's obligations under the Privacy Rule pursuant to the terms of the Underlying Agreements, Terms of Service or this Agreement, Anagram shall comply with the requirements of the Privacy Rule that apply to Customer in the performance of such obligation(s).
 
 ## 3.2 Appropriate Safeguards
 
@@ -78,13 +78,13 @@ Anagram shall use appropriate physical, technical and administrative safeguards,
 
 ## 3.3 Mitigation
 
-Anagram agrees to mitigate, to the extent practicable, any harmful effect that is known to Anagram as a result of a use or disclosure of PHI by Anagram in violation of this Agreement&#39;s requirements or that would otherwise cause a Breach of Unsecured PHI.
+Anagram agrees to mitigate, to the extent practicable, any harmful effect that is known to Anagram as a result of a use or disclosure of PHI by Anagram in violation of this Agreement's requirements or that would otherwise cause a Breach of Unsecured PHI.
 
 ## 3.4 Breach Reporting
 
 Anagram shall report to Customer any use or disclosure of PHI not permitted under this BAA, Breach of Unsecured PHI or Security Incident, without unreasonable delay, and in any event no more than thirty (30) days following discovery; provided, however, that the Parties acknowledge and agree that this Section constitutes notice by
 
-Anagram to Customer of the ongoing existence and occurrence of attempted but Unsuccessful Security Incidents (as defined below) for which notice to Customer by Anagram shall be required only upon request. &quot;Unsuccessful Security Incidents&quot; shall include, but not be limited to, pings and other broadcast attacks on Anagram&#39;s firewall, port scans, unsuccessful log-on attempts, denials of service and any combination of the above, so long as no such incident results in unauthorized access, use or disclosure of PHI. Anagram&#39;s notification to Customer of a Breach shall include: (i) the identification of each individual whose Unsecured PHI has been, or is reasonably believed by Anagram to have been, accessed, acquired or disclosed during the Breach; and (ii) any particulars regarding the Breach that Customer would need to include in its notification, as such particulars are identified in 45 C.F.R. § 164.404.
+Anagram to Customer of the ongoing existence and occurrence of attempted but Unsuccessful Security Incidents (as defined below) for which notice to Customer by Anagram shall be required only upon request. "Unsuccessful Security Incidents" shall include, but not be limited to, pings and other broadcast attacks on Anagram's firewall, port scans, unsuccessful log-on attempts, denials of service and any combination of the above, so long as no such incident results in unauthorized access, use or disclosure of PHI. Anagram's notification to Customer of a Breach shall include: (i) the identification of each individual whose Unsecured PHI has been, or is reasonably believed by Anagram to have been, accessed, acquired or disclosed during the Breach; and (ii) any particulars regarding the Breach that Customer would need to include in its notification, as such particulars are identified in 45 C.F.R. § 164.404.
 
 ## 3.5 Subcontractors
 
@@ -114,7 +114,7 @@ Anagram, Anagram shall forward such request to Customer. Any response to such re
 
 Anagram agrees to make its internal practices, books and records, including policies and procedures regarding PHI, relating to the use and disclosure of PHI and Breach of any Unsecured PHI received from Customer, or created or received by the Anagram on behalf of Customer, available to the Secretary for the purpose of Customer or the Secretary determining compliance with the HIPAA Rules. 3.11 Documentation of Disclosures. Anagram shall document such disclosures of PHI and information related to such disclosures as would be required for Customer to respond to a request by an Individual for an accounting of disclosures of PHI in accordance with 45 C.F.R. § 164.528. Anagram shall document, at a minimum, the following information
 
-(&quot;Disclosure Information&quot;): (i) the date of the disclosure, (ii) the name and, if known, the address of the recipient of the PHI, (iii) a brief description of the PHI disclosed, (iv) the purpose of the disclosure that includes an explanation of the basis for such disclosure, and (v) any additional information required under the HITECH Act and any implementing regulations.
+("Disclosure Information"): (i) the date of the disclosure, (ii) the name and, if known, the address of the recipient of the PHI, (iii) a brief description of the PHI disclosed, (iv) the purpose of the disclosure that includes an explanation of the basis for such disclosure, and (v) any additional information required under the HITECH Act and any implementing regulations.
 
 # 4. Permitted Uses and Disclosures by Anagram
 
@@ -134,7 +134,7 @@ Use PHI for the proper management and administration of Anagram, or to carry out
 
 ## 4.3.2
 
-Anagram agrees to make uses and disclosures and requests for PHI consistent with Customer&#39;s minimum necessary policies and procedures.
+Anagram agrees to make uses and disclosures and requests for PHI consistent with Customer's minimum necessary policies and procedures.
 
 ## 4.3.3
 
@@ -156,15 +156,15 @@ Customer shall:
 
 ### 5.1.1
 
-Notify Anagram of any limitation(s) in its Notice of Privacy Practices (or that of its Covered Entity client) in accordance with 45 C.F.R. § 164.520, to the extent that such limitation may affect Anagram&#39;s use or disclosure of PHI.
+Notify Anagram of any limitation(s) in its Notice of Privacy Practices (or that of its Covered Entity client) in accordance with 45 C.F.R. § 164.520, to the extent that such limitation may affect Anagram's use or disclosure of PHI.
 
 ### 5.1.2
 
-Notify Anagram of any restriction to the use or disclosure of PHI that Customer (or its Covered Entity client) has agreed to in accordance with 45 C.F.R. § 164.522, to the extent that such changes may affect Anagram&#39;s use or disclosure of PHI.
+Notify Anagram of any restriction to the use or disclosure of PHI that Customer (or its Covered Entity client) has agreed to in accordance with 45 C.F.R. § 164.522, to the extent that such changes may affect Anagram's use or disclosure of PHI.
 
 ### 5.1.3
 
-Notify Anagram of any changes in or revocation of permission by an individual to use or disclose his or her PHI, to the extent that such change or revocation may affect Anagram&#39;s permitted or required uses and disclosures of PHI.
+Notify Anagram of any changes in or revocation of permission by an individual to use or disclose his or her PHI, to the extent that such change or revocation may affect Anagram's permitted or required uses and disclosures of PHI.
 
 ## 5.2
 
@@ -190,7 +190,7 @@ The Underlying Agreement is terminated.
 
 ## 6.2
 
-Termination for Cause. Upon Customer&#39;s knowledge of material breach by Anagram, Customer shall provide an opportunity for Anagram to cure the breach or end the violation. If Anagram does not cure the breach or end the violation within thirty (30) days unless otherwise specified by Customer, or if a material term of this Agreement has been breached and a cure is not possible, Customer may terminate this Agreement and the Underlying Agreement(s), if any, upon written notice to Anagram.
+Termination for Cause. Upon Customer's knowledge of material breach by Anagram, Customer shall provide an opportunity for Anagram to cure the breach or end the violation. If Anagram does not cure the breach or end the violation within thirty (30) days unless otherwise specified by Customer, or if a material term of this Agreement has been breached and a cure is not possible, Customer may terminate this Agreement and the Underlying Agreement(s), if any, upon written notice to Anagram.
 
 ## 6.3
 
@@ -240,7 +240,7 @@ Any ambiguity shall be resolved in favor of a meaning that permits Customer to c
 
 ### 7.4.2
 
-Any inconsistency between the Agreement&#39;s provisions and the HIPAA Rules, including all amendments, as interpreted by the Department of Health and Human Services, court or another regulatory agency with authority over the Parties, shall be interpreted according to the interpretation of the Department of Health and Human Services, the court or the regulatory agency.
+Any inconsistency between the Agreement's provisions and the HIPAA Rules, including all amendments, as interpreted by the Department of Health and Human Services, court or another regulatory agency with authority over the Parties, shall be interpreted according to the interpretation of the Department of Health and Human Services, the court or the regulatory agency.
 
 ### 7.4.3
 
