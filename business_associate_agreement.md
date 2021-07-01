@@ -14,7 +14,7 @@ Business Associate Agreement
 ----------------
 Version 2.0 - February 2021
 
-This Business Associate Agreement (the "Agreement") is entered into as of {date} (the "Effective Date"), by and between {company-name} ("Customer") and Anagram Inc. ("Anagram"). Customer and Anagram, collectively, may be referred to herein as the "Parties".
+This Business Associate Agreement (the "Agreement") is entered into as of {date} (the "Effective Date"), by and between {customer} ("Customer") and Anagram Inc. ("Anagram"). Customer and Anagram, collectively, may be referred to herein as the "Parties".
 
 ### 1. Introduction
 
